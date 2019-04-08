@@ -1,0 +1,22 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+  }
+  
+img {
+    /* padding-top: 10%;
+    border-radius: 25px;
+    width:50%; */
+    
+    background-position: left top;
+    border-radius: 50%;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%; 
+    width: 90%;
+    height: 90%;  
+    
+  
+    
+  
+  }
