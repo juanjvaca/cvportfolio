@@ -32,10 +32,12 @@ h4{
   margin-top: 20px;
   margin-bottom: 3px;
   text-align: center;
+
 }
 ul{
   margin-top: 0px;
 }
+
 .skills{
   -moz-column-count: 2;
 -moz-column-gap: 10px;
